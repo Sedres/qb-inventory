@@ -24,7 +24,7 @@ Installation
 
 Download or Clone:
 
-git clone https://github.com/yourusername/qbcore-inventory-redesign.git
+git clone https://github.com/Sedres/qbcore-inventory.git
 
 Replace Files:
 Copy the provided CSS, HTML, and JavaScript files into your inventory resource folder.
